@@ -1,0 +1,12 @@
+# Node.js dependencies
+/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# CSV and Pickle files
+*.csv
+*.pkl
