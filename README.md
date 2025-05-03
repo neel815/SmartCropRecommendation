@@ -22,3 +22,8 @@ A web application that recommends the best crop for cultivation based on soil an
    ```bash
    git clone https://github.com/your-username/smart-crop-recommendation.git
    cd smart-crop-recommendation
+2. **Set up the environment**:
+   python3 -m venv venv
+   source venv/bin/activate   # macOS/Linux
+   venv\Scripts\activate      # Windows
+   pip install -r requirements.txt
